@@ -12,7 +12,7 @@ public class MyKeywordDemo {
 		println "Hello World !"
 	}
 
-	@Keyword
+	@Keyword(keywordObject = "Hello")
 	def helloUser(String user) {
 		println("Hello " +user)
 	}

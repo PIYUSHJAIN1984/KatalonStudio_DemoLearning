@@ -6,4 +6,17 @@
    <comment></comment>
    <recordOption>OTHER</recordOption>
    <testCaseGuid>30901dcd-1669-4476-b2a8-1f428ee16ba1</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d7d8a014-bbc6-49e3-8551-1f2ce0cc7c7b</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d7d8a014-bbc6-49e3-8551-1f2ce0cc7c7b</id>
+      <masked>false</masked>
+      <name>testt</name>
+   </variable>
 </TestCaseEntity>

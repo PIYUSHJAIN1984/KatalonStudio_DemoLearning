@@ -1,10 +1,10 @@
 import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
-
-import org.testng.Assert
-
+import org.testng.Assert as Assert
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 
 CustomKeywords.'BrowserTools.openSecureBrowser'('https://katalon-demo-cura.herokuapp.com/')
+
+//Script Code
 
 //WebUI.navigateToUrl('https://katalon-demo-cura.herokuapp.com/')
 WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/a_Make Appointment'))
