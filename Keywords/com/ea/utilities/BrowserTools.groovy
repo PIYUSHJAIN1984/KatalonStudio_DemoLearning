@@ -1,3 +1,4 @@
+package com.ea.utilities
 import org.openqa.selenium.chrome.ChromeDriver
 import org.openqa.selenium.chrome.ChromeOptions
 import com.kms.katalon.core.annotation.Keyword

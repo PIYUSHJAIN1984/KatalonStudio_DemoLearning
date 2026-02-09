@@ -19,7 +19,7 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-CustomKeywords.'MyKeywordDemo.login'('Admin', 'hUKwJTbofgPU9eVlw/CnDQ==')
+CustomKeywords.'com.ea.utilities.MyKeywordDemo.login'('Admin', 'hUKwJTbofgPU9eVlw/CnDQ==')
 
 WebUI.closeBrowser()
 

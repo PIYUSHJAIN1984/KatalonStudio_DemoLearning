@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Search_input-151</name>
+   <name>input_SearchBox</name>
    <tag></tag>
    <elementGuidId>5100a2bb-e1f7-40d3-879e-c42f57e525c2</elementGuidId>
    <selectorCollection>
@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='input-151']</value>
+         <value>//button[@aria-label='Search']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>65e64454-466d-42bd-82f1-735d8dafd775</webElementGuid>
+      <webElementGuid>111b6dd5-922e-47a0-aaff-e19b9d61f5cc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>slds-input</value>
-      <webElementGuid>0d1f1874-b113-41bd-badc-5e3c2c01b6fe</webElementGuid>
+      <webElementGuid>20445033-281e-4b36-822b-bbe1772f1fda</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>part</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>855129a1-22b1-46b9-aba5-02b35a65d3f2</webElementGuid>
+      <webElementGuid>6dc4332d-1318-42e3-87bd-21c624dc3a49</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>b0a9b09a-5504-4035-9f32-c6e4cc7b32af</webElementGuid>
+      <webElementGuid>3521aa82-c0ba-4081-8a52-33ec0aea7953</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>id</name>
       <type>Main</type>
       <value>input-151</value>
-      <webElementGuid>d8e5bb70-75e5-49ca-b57a-3e663793b483</webElementGuid>
+      <webElementGuid>3c110210-2bb8-4de6-ac3d-ad5ef70a39b5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>maxlength</name>
       <type>Main</type>
       <value>100</value>
-      <webElementGuid>c5bd68c7-8b04-4de8-b3ee-44d4022596d7</webElementGuid>
+      <webElementGuid>360438ea-54fe-43f2-909d-23c64f69cab2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -77,7 +77,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Search...</value>
-      <webElementGuid>ed4bb7d7-9341-44b2-a437-1340d468c6df</webElementGuid>
+      <webElementGuid>0706ce70-94b6-4541-ac73-697ff27bc5b8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -85,7 +85,7 @@
       <name>type</name>
       <type>Main</type>
       <value>search</value>
-      <webElementGuid>1016d52d-7e8a-4d7d-a5b9-4eecae08eb4c</webElementGuid>
+      <webElementGuid>b97d5912-1b65-455a-8feb-eddb069d1451</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>aria-describedby</name>
       <type>Main</type>
       <value>help-message-151</value>
-      <webElementGuid>b6afa1bc-2e14-4076-8873-66957869843a</webElementGuid>
+      <webElementGuid>f8828d20-1d33-45a1-924f-2f885b291950</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>aria-controls</name>
       <type>Main</type>
       <value>suggestionsList-146</value>
-      <webElementGuid>103b1fda-5f80-4ecd-99bd-02befc322816</webElementGuid>
+      <webElementGuid>37d32ebd-0d3c-4a8a-8570-104037c484ce</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;input-151&quot;)</value>
-      <webElementGuid>58be8211-19b6-4189-8ba6-a83fe2d6eef1</webElementGuid>
+      <webElementGuid>fd236fef-1007-41f4-936b-6d1a7a543137</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='input-151']</value>
-      <webElementGuid>3e3858de-1288-403e-b511-f7f9013083bf</webElementGuid>
+      <webElementGuid>cb6336d7-5ef1-4da3-b961-f0dd6f084b05</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +125,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='content_1021:0']/div/div/lightning-input/lightning-primitive-input-simple/div/div/input</value>
-      <webElementGuid>0fc1f37a-c35b-43e3-a045-1bec2a16c414</webElementGuid>
+      <webElementGuid>bacf9d59-6fa6-4522-9283-4f14208ee8a3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,7 +133,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//lightning-primitive-input-simple/div/div/input</value>
-      <webElementGuid>f315e021-7435-4632-af63-06c66c8e907e</webElementGuid>
+      <webElementGuid>782526d4-cf2a-4daf-bef6-db3720b74172</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -141,6 +141,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@id = 'input-151' and @placeholder = 'Search...' and @type = 'search']</value>
-      <webElementGuid>2812aeff-d067-4154-8851-f25a055f45b4</webElementGuid>
+      <webElementGuid>44d76e93-a8e0-4b5c-ad89-dcbdaf8c518b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -9,7 +9,7 @@ import org.openqa.selenium.support.ui.Select
 
 public class CommonFunctions {
 
-@Keyword
+@Keyword()
 	def checkDropDownListElementExist(TestObject object, String value) {
 
 		boolean flag = false;
@@ -30,4 +30,5 @@ public class CommonFunctions {
 			println "Element not present in dropdown"
 		}
 	}
+	
 }

@@ -2,7 +2,7 @@ import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
 import org.testng.Assert as Assert
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 
-CustomKeywords.'BrowserTools.openSecureBrowser'('https://katalon-demo-cura.herokuapp.com/')
+CustomKeywords.'com.ea.utilities.BrowserTools.openSecureBrowser'('https://katalon-demo-cura.herokuapp.com/')
 
 //Script Code1
 

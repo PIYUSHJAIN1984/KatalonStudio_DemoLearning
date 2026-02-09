@@ -15,16 +15,16 @@ WebElement el = WebUiCommonHelper.findWebElement(findTestObject('Object Reposito
 
 WebUI.executeJavaScript('arguments[0].setAttribute(\'value\',\'piano\')', Arrays.asList(el))
 
+
+
 //Click element using javascript
 WebElement searchBtn = WebUiCommonHelper.findWebElement(findTestObject('Object Repository/KB Tutorials/Page_Amazon.com/submit-button'), 
     30)
 
-WebUI.executeJavaScript('arguments[0].click()', Arrays.asList(searchBtn))
+WebUI.executeJavaScript("arguments[0].click()", Arrays.asList(searchBtn))
 
 //Remove attribute from inspect element
-WebElement el = WebUiCommonHelper.findWebElement(findTestObject('Object Repository/KB Tutorials/Page_Amazon.com/input_searchtextbox'), 
-    30)
+WebElement elt = WebUiCommonHelper.findWebElement(findTestObject('Object Repository/KB Tutorials/Page_Amazon.com/input_searchtextbox'), 
+  30)
 
-WebUI.executeJavaScript('arguments[0].removeAttribute(\'id\')', Arrays.asList(el))
-
-WebUI.closeBrowser()
+WebUI.executeJavaScript('arguments[0].removeAttribute(\'id\')', Arrays.asList(elt))
